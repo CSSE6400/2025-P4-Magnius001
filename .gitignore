@@ -4,6 +4,7 @@ credentials
 # Default Terrform .gitignore
 # Local .terraform directories
 **/.terraform/*
+.terraform*
 
 # .tfstate files
 *.tfstate
